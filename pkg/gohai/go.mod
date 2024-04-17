@@ -1,4 +1,4 @@
-module github.com/DataDog/datadog-agent/pkg/gohai
+module github.com/jauderho/datadog-agent/pkg/gohai
 
 // we don't want to just use the agent's go version because gohai might be used outside of it
 // eg. opentelemetry
