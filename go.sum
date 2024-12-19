@@ -518,6 +518,8 @@ github.com/csaf-poc/csaf_distribution/v3 v3.0.0 h1:ob9+Fmpff0YWgTP3dYaw7G2hKQ9ce
 github.com/csaf-poc/csaf_distribution/v3 v3.0.0/go.mod h1:uilCTiNKivq+6zrDvjtZaUeLk70oe21iwKivo6ILwlQ=
 github.com/cyphar/filepath-securejoin v0.3.4 h1:VBWugsJh2ZxJmLFSM06/0qzQyiQX2Qs0ViKrUAcqdZ8=
 github.com/cyphar/filepath-securejoin v0.3.4/go.mod h1:8s/MCNJREmFK0H02MF6Ihv1nakJe4L/w3WZLHNkvlYM=
+github.com/cyphar/filepath-securejoin v0.3.6 h1:4d9N5ykBnSp5Xn2JkhocYDkOpURL/18CYMpo6xB9uWM=
+github.com/cyphar/filepath-securejoin v0.3.6/go.mod h1:Sdj7gXlvMcPZsbhwhQ33GguGLDGQL7h7bg04C/+u9jI=
 github.com/datadog/trivy-db v0.0.0-20240228172000-42caffdaee3f h1:IFB3J+f0m2e7nZjPTqvzLrrb6dVU6BQrsGx/7Tmm8Xk=
 github.com/datadog/trivy-db v0.0.0-20240228172000-42caffdaee3f/go.mod h1:cj9/QmD9N3OZnKQMp+/DvdV+ym3HyIkd4e+F0ZM3ZGs=
 github.com/davecgh/go-spew v1.1.0/go.mod h1:J7Y8YcW2NihsgmVo/mv3lAwl/skON4iLHjSsI+c5H38=
