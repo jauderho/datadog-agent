@@ -160,7 +160,7 @@ require (
 	github.com/DataDog/datadog-agent/pkg/util/scrubber v0.59.1
 	github.com/DataDog/datadog-go/v5 v5.6.0
 	github.com/DataDog/datadog-operator v1.11.0-rc.2
-	github.com/DataDog/ebpf-manager v0.7.4
+	github.com/DataDog/ebpf-manager v1.0.3
 	github.com/DataDog/gopsutil v1.2.2
 	github.com/DataDog/nikos v1.12.8
 	github.com/DataDog/opentelemetry-mapping-go/pkg/otlp/attributes v0.22.0
@@ -821,6 +821,7 @@ require (
 	github.com/antlr4-go/antlr/v4 v4.13.0 // indirect
 	github.com/apache/thrift v0.21.0 // indirect
 	github.com/aquasecurity/trivy-java-db v0.0.0-20240109071736-184bd7481d48 // indirect
+	github.com/avast/retry-go v3.0.0+incompatible // indirect
 	github.com/aws/aws-sdk-go-v2/service/internal/accept-encoding v1.12.1 // indirect
 	github.com/bahlo/generic-list-go v0.2.0 // indirect
 	github.com/bitnami/go-version v0.0.0-20231130084017-bb00604d650c // indirect
@@ -846,6 +847,7 @@ require (
 	github.com/emirpasic/gods v1.18.1 // indirect
 	github.com/envoyproxy/go-control-plane v0.13.0 // indirect
 	github.com/envoyproxy/protoc-gen-validate v1.1.0 // indirect
+	github.com/florianl/go-tc v0.3.0 // indirect
 	github.com/fxamacker/cbor/v2 v2.7.0 // indirect
 	github.com/glebarez/go-sqlite v1.22.0 // indirect
 	github.com/go-git/gcfg v1.5.1-0.20230307220236-3a3c6141e376 // indirect
