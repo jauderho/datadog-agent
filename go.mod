@@ -267,7 +267,7 @@ require (
 	github.com/sirupsen/logrus v1.9.3
 	github.com/skydive-project/go-debouncer v1.0.0
 	github.com/smira/go-xz v0.1.0
-	github.com/spf13/afero v1.11.0
+	github.com/spf13/afero v1.12.0
 	github.com/spf13/cast v1.7.0
 	github.com/spf13/cobra v1.8.1
 	github.com/spf13/pflag v1.0.5
@@ -310,15 +310,15 @@ require (
 	golang.org/x/exp v0.0.0-20241210194714-1829a127f884
 	golang.org/x/net v0.33.0
 	golang.org/x/sync v0.10.0
-	golang.org/x/sys v0.28.0
+	golang.org/x/sys v0.29.0
 	golang.org/x/text v0.21.0
 	golang.org/x/time v0.8.0
 	golang.org/x/tools v0.28.0
 	golang.org/x/xerrors v0.0.0-20240903120638-7835f813f4da
-	google.golang.org/genproto v0.0.0-20240903143218-8af14fe29dc1 // indirect
-	google.golang.org/grpc v1.67.1
+	google.golang.org/genproto v0.0.0-20241118233622-e639e219e697 // indirect
+	google.golang.org/grpc v1.67.3
 	google.golang.org/grpc/examples v0.0.0-20221020162917-9127159caf5a
-	google.golang.org/protobuf v1.35.2
+	google.golang.org/protobuf v1.36.1
 	gopkg.in/DataDog/dd-trace-go.v1 v1.69.1
 	gopkg.in/yaml.v2 v2.4.0
 	gopkg.in/yaml.v3 v3.0.1
@@ -343,7 +343,7 @@ require (
 )
 
 require (
-	cloud.google.com/go/compute/metadata v0.5.2 // indirect
+	cloud.google.com/go/compute/metadata v0.6.0 // indirect
 	code.cloudfoundry.org/cfhttp/v2 v2.0.0 // indirect
 	code.cloudfoundry.org/clock v1.0.0 // indirect
 	code.cloudfoundry.org/consuladapter v0.0.0-20200131002136-ac1daf48ba97 // indirect
@@ -428,7 +428,7 @@ require (
 	github.com/golang/snappy v0.0.5-0.20220116011046-fa5810519dcb // indirect
 	github.com/google/uuid v1.6.0
 	github.com/google/wire v0.6.0 // indirect
-	github.com/googleapis/gax-go/v2 v2.13.0 // indirect
+	github.com/googleapis/gax-go/v2 v2.14.1 // indirect
 	github.com/grpc-ecosystem/go-grpc-prometheus v1.2.0 // indirect
 	github.com/grpc-ecosystem/grpc-gateway/v2 v2.23.0 // indirect
 	github.com/hashicorp/errwrap v1.1.0 // indirect
@@ -566,12 +566,12 @@ require (
 	go.opentelemetry.io/otel/sdk/metric v1.32.0 // indirect
 	go.opentelemetry.io/otel/trace v1.32.0
 	go.opentelemetry.io/proto/otlp v1.3.1 // indirect
-	golang.org/x/crypto v0.31.0 // indirect
+	golang.org/x/crypto v0.32.0 // indirect
 	golang.org/x/mod v0.22.0
-	golang.org/x/oauth2 v0.23.0 // indirect
-	golang.org/x/term v0.27.0 // indirect
+	golang.org/x/oauth2 v0.25.0 // indirect
+	golang.org/x/term v0.28.0 // indirect
 	gonum.org/v1/gonum v0.15.1 // indirect
-	google.golang.org/api v0.199.0 // indirect
+	google.golang.org/api v0.215.0 // indirect
 	google.golang.org/appengine v1.6.8 // indirect
 	gopkg.in/Knetic/govaluate.v3 v3.0.0 // indirect
 	gopkg.in/cheggaaa/pb.v1 v1.0.28 // indirect
@@ -779,8 +779,8 @@ require (
 )
 
 require (
-	cloud.google.com/go/auth v0.9.5 // indirect
-	cloud.google.com/go/auth/oauth2adapt v0.2.4 // indirect
+	cloud.google.com/go/auth v0.13.0 // indirect
+	cloud.google.com/go/auth/oauth2adapt v0.2.6 // indirect
 	code.cloudfoundry.org/go-diodes v0.0.0-20240604201846-c756bfed2ed3 // indirect
 	code.cloudfoundry.org/go-loggregator v7.4.0+incompatible // indirect
 	code.cloudfoundry.org/rfc5424 v0.0.0-20201103192249-000122071b78 // indirect
@@ -844,7 +844,7 @@ require (
 	github.com/elastic/lunes v0.1.0 // indirect
 	github.com/emicklei/go-restful/v3 v3.12.1 // indirect
 	github.com/emirpasic/gods v1.18.1 // indirect
-	github.com/envoyproxy/go-control-plane v0.13.0 // indirect
+	github.com/envoyproxy/go-control-plane v0.13.1 // indirect
 	github.com/envoyproxy/protoc-gen-validate v1.1.0 // indirect
 	github.com/fxamacker/cbor/v2 v2.7.0 // indirect
 	github.com/glebarez/go-sqlite v1.22.0 // indirect
@@ -1038,8 +1038,8 @@ require (
 	go4.org/unsafe/assume-no-moving-gc v0.0.0-20231121144256-b99613f794b6 // indirect
 	golang.org/x/exp/typeparams v0.0.0-20240314144324-c7f7c6466f7f // indirect
 	golang.org/x/lint v0.0.0-20241112194109-818c5a804067 // indirect
-	google.golang.org/genproto/googleapis/api v0.0.0-20241104194629-dd2ea8efbc28 // indirect
-	google.golang.org/genproto/googleapis/rpc v0.0.0-20241104194629-dd2ea8efbc28 // indirect
+	google.golang.org/genproto/googleapis/api v0.0.0-20241209162323-e6fa225c2576 // indirect
+	google.golang.org/genproto/googleapis/rpc v0.0.0-20241223144023-3abc09e42ca8 // indirect
 	gopkg.in/evanphx/json-patch.v4 v4.12.0 // indirect
 	gopkg.in/ini.v1 v1.67.0 // indirect
 	gopkg.in/warnings.v0 v0.1.2 // indirect
